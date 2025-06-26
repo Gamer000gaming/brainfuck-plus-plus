@@ -98,4 +98,4 @@ run_bfpp_live(program_text)
 BF++ is:
 - Fully compatible with classic Brainfuck (any BF++ code can be converted to originla Brainfuck code)
 - Just as powerful (Turing-complete)
-- Much easier to read and use
+- Much easier to use
